@@ -1,5 +1,5 @@
 <h1>Responsive Web Design de FreeCodeCamp.</h1>
-<h4>Esta carpeta incluye los proyectos que he realizado mientras estudiaba este certificado</h4>
+<h4>Esta carpeta incluye los proyectos que he realizado en el certificado responsive web design de FreeCodeCamp</h4>
 <p>Los proyectos que incluye se han creado en html y css.</p>
 <p>Son los siguientes:<p>
   <li>Formulario de encuesta</li>
