@@ -5,5 +5,5 @@
   <li>Formulario de encuesta</li>
   <li>Página de documentación</li>
   <li>Página de homenaje</li>
-  <li>Página de producto/li>
+  <li>Página de producto</li>
   <li>Personal portfolio</li>
